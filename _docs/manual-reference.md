@@ -49,7 +49,10 @@ W oknie użytkownicy mamy mozliwość definowania użytkowników aplikacji SAKOL
 `hlp_forms_fld`
 Lista własności 
 ### Projekt
-Przykład dla projektu
+
+![image](https://user-images.githubusercontent.com/93259107/143887809-7681a1d6-242a-4ddd-94c3-84689aff2a05.png)
+
+
 ## Słowniki <a name="hlp_dicts"></a>
 `hlp_dicts`
 ### Zastosowanie
