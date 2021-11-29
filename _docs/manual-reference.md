@@ -17,8 +17,11 @@ Aplikacja ta jak sama nazwa wskazauje jest panelem administracyjnym do zarządza
 
 ![image](https://user-images.githubusercontent.com/93259107/143865839-057ab28f-dd27-4ed2-926f-314c03cc10ed.png)
 
-W oknie użytkownicy mamy mozliwość definowania użytkowników dla aplikacji SAKOL.
-- Projekt
+W oknie użytkownicy mamy mozliwość definowania użytkowników aplikacji SAKOL. Możemy ustawiać hasło, resetować hasło, możemy również wygenerować kod etykiety, dzięki któemu możemy logować się za pomocą kodu kreskowego bez podawania hasła. Poniżej okienko edycji użytkownika.
+
+![image](https://user-images.githubusercontent.com/93259107/143867989-6e709b09-a0e3-4d66-a4f6-f7c0e50bf7fe.png)
+
+
 
 
 ## Klasy <a name="hlp_class"></a>
