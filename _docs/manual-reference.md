@@ -5,7 +5,8 @@ excerpt: "Dokumetacja SAKOL - spis funkcji systemu"
 ---
 
 # Opis funkcjonalności 
-Tutaj ma sie pojawic spis do ktorego bedziemy sie odwoływac z aplikacji administarcyjnej.
+![image](https://user-images.githubusercontent.com/93259107/143850389-f0ccb4c1-b639-49d7-a501-0d52c2464562.png)
+
 
 
 ## Uzytkownicy <a name="hlp_users"></a>
