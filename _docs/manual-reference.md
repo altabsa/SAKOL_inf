@@ -14,7 +14,10 @@ Aplikacja ta jak sama nazwa wskazauje jest panelem administracyjnym do zarządza
 
 ## Uzytkownicy <a name="hlp_users"></a>
 `hlp_users`
-- Opis 
+
+![image](https://user-images.githubusercontent.com/93259107/143865839-057ab28f-dd27-4ed2-926f-314c03cc10ed.png)
+
+W oknie użytkownicy mamy mozliwość definowania użytkowników dla aplikacji SAKOL.
 - Projekt
 
 
