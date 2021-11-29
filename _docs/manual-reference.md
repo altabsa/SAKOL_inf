@@ -34,7 +34,9 @@ W oknie użytkownicy mamy mozliwość definowania użytkowników aplikacji SAKOL
 `hlp_class_fld`
   Lista własności 
 ### Projekt
-  Przykład dla projektu
+
+![image](https://user-images.githubusercontent.com/93259107/143887490-591e7c6d-cca2-4ae4-a99b-c20f265fd5de.png)
+
   
 ## Formatki  <a name="hlp_forms"></a>
 `hlp_forms`
