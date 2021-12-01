@@ -11,6 +11,12 @@ test
 
 # Instalacja SAKOL DataService
 ## Instalacja bazy danych
+
+Baza danych SAKOL3 działa na silniku SQL. Na początek instalacji SAKOL odtwarzamy pustą bazę w Management Studio
+
+![image](https://user-images.githubusercontent.com/93259107/144235718-c351084f-6db9-4970-9fc2-92f2c1125ebe.png)
+
+
 ## Instalacja usługi
 
 Usługę instalujemy poprzez cmd z uprawnieniami administracyjnymi
