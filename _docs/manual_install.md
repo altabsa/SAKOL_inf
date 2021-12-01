@@ -17,6 +17,11 @@ Usługę instalujemy poprzez cmd z uprawnieniami administracyjnymi
 
 ![image](https://user-images.githubusercontent.com/93259107/144231064-8b4fb001-aa91-48c3-bba7-7a37f432bac1.png)
 
+W cmd korzystamy z funkcji istallutil. 
+
+![image](https://user-images.githubusercontent.com/93259107/144232217-1638df20-dc43-4323-85c7-1b4e473e575d.png)
+
+
 
 # Klient WWW
 > Jak zainstalowac na IIS
