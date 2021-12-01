@@ -19,7 +19,8 @@ Usługę instalujemy poprzez cmd z uprawnieniami administracyjnymi
 
 W cmd korzystamy z funkcji istallutil. 
 
-![image](https://user-images.githubusercontent.com/93259107/144232217-1638df20-dc43-4323-85c7-1b4e473e575d.png)
+![image](https://user-images.githubusercontent.com/93259107/144232784-b0c5285f-70f1-435a-8aa5-fb82c43ff701.png)
+
 
 
 
