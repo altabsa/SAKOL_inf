@@ -19,6 +19,10 @@ Baza danych SAKOL3 działa na silniku SQL. Na początek instalacji SAKOL odtwarz
 
 
 ## Instalacja usługi
+W pierwszej kolejności tworzymy katalog SAKOL3 w którym umieszczamy katalogi z aplikacją WWW, panelem administracyjnym oraz usługą.
+
+![image](https://user-images.githubusercontent.com/93259107/144237890-1ff27912-4976-4437-afda-64d61150f880.png)
+
 
 Usługę instalujemy poprzez cmd z uprawnieniami administracyjnymi
 
