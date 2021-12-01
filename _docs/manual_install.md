@@ -21,6 +21,9 @@ W cmd korzystamy z funkcji istallutil.
 
 ![image](https://user-images.githubusercontent.com/93259107/144232784-b0c5285f-70f1-435a-8aa5-fb82c43ff701.png)
 
+Jeżeli pojawi się poniższy komunikat oznacza, że usługa SAKOL3_DataService została zainstalowana
+
+![image](https://user-images.githubusercontent.com/93259107/144233078-f430c7ee-e695-4bf2-81ba-58433f598685.png)
 
 
 
