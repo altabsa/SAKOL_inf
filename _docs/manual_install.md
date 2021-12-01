@@ -13,6 +13,11 @@ test
 ## Instalacja bazy danych
 ## Instalacja usługi
 
+Usługę instalujemy poprzez cmd z uprawnieniami administracyjnymi
+
+![image](https://user-images.githubusercontent.com/93259107/144231064-8b4fb001-aa91-48c3-bba7-7a37f432bac1.png)
+
+
 # Klient WWW
 > Jak zainstalowac na IIS
 
