@@ -10,8 +10,10 @@ excerpt: "Dokumetacja SAKOL - platformy Low-Code dla Twojego biznesu"
  - Krótki opis założeń dla systemu SAKOL. 
 
 # Platforma Low-Code
-(ang. low-code development platform, LCDP) jest oprogramowaniem umożliwiającym budowę aplikacji w sposób wizualny, za pomocą diagramów, grafów czy formularzy bez znajomości języków programowania.
-> do uzupełnienia
+
+Platforma Low-Code (ang. low-code development platform, LCDP) jest oprogramowaniem umożliwiającym budowę aplikacji w sposób wizualny, za pomocą diagramów, grafów czy formularzy bez znajomości języków programowania.
+
+Platformy te obecnie są wykorzystywane głównie do projektowania i wdrażania baz danych, interfejsów użytkownika, projektowania procesów biznesowych i ich automatyzacji[2]. Platformy niskokodowe redukują zaangażowanie tzw. ręcznego kodowania w procesie tworzenia aplikacji.
 
 # Przyklady zastosowań
 Napisac że WMS , produkcja, rcp, szybka rejestracja, mobilni sprzedawcy itp
