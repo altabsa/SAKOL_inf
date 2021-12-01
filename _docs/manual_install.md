@@ -24,6 +24,10 @@ W pierwszej kolejności tworzymy katalog SAKOL3 w którym umieszczamy katalogi z
 
 ![image](https://user-images.githubusercontent.com/93259107/144237890-1ff27912-4976-4437-afda-64d61150f880.png)
 
+Kolejnym krokiem jest edycja pliku konfiguracyjnego sakol3.ini, który znajduje się w katalogu SAKOL3_DataService.
+
+![image](https://user-images.githubusercontent.com/93259107/144241631-4522f740-35ca-4807-8210-c14dec022ab3.png)
+
 
 Usługę instalujemy poprzez cmd z uprawnieniami administracyjnymi
 
