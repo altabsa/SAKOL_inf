@@ -16,8 +16,13 @@ Platforma Low-Code (ang. low-code development platform, LCDP) jest oprogramowani
 Platformy te obecnie są wykorzystywane głównie do projektowania i wdrażania baz danych, interfejsów użytkownika, projektowania procesów biznesowych i ich automatyzacji. Platformy niskokodowe redukują zaangażowanie tzw. ręcznego kodowania w procesie tworzenia aplikacji.
 
 # Przyklady zastosowań
-Napisac że WMS , produkcja, rcp, szybka rejestracja, mobilni sprzedawcy itp
-
+Aplikacja SAKOL może mnieć zastowanie w następujących obszarach:
+-WMS
+-RCP
+-Produkcja
+-Mobilni sprzedawcy
+-Szybka rejestracja
+-Aplikacja WWW 
 # Architektura platformy
 Opis struktury aplikacji wchodzących w sklad systemu SAKOL
 
