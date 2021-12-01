@@ -30,7 +30,7 @@ Kolejnym krokiem jest edycja pliku konfiguracyjnego sakol3.ini, który znajduje 
 
 Zmieniamy parametry w pliku konfiguracyjnym.
 
-![image](https://user-images.githubusercontent.com/93259107/144248577-b5e06e27-5caf-4383-898e-491cf9dd0c91.png)
+![image](https://user-images.githubusercontent.com/93259107/144249394-16eb4c84-1d90-4c59-9500-856a84343cc8.png)
 
 W początkowej konfiguracji istotnymi parametrami są:
 DataSource - jest to serwer SQL na którym jest baza danych SAKOL3
