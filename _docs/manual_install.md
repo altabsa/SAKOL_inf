@@ -28,6 +28,17 @@ Kolejnym krokiem jest edycja pliku konfiguracyjnego sakol3.ini, który znajduje 
 
 ![image](https://user-images.githubusercontent.com/93259107/144241631-4522f740-35ca-4807-8210-c14dec022ab3.png)
 
+Zmieniamy parametry w pliku konfiguracyjnym.
+
+![image](https://user-images.githubusercontent.com/93259107/144248577-b5e06e27-5caf-4383-898e-491cf9dd0c91.png)
+
+W początkowej konfiguracji istotnymi parametrami są:
+DataSource - jest to serwer SQL na którym jest baza danych SAKOL3
+UserID - użytkownik SQL
+Password - hasło SQL
+DBName - nazwa bazy 
+WSParam1 - Nazwa bazy SAP
+HtmlAppPath - ścieżka do aplikacji WWW
 
 Usługę instalujemy poprzez cmd z uprawnieniami administracyjnymi
 
