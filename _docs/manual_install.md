@@ -16,6 +16,8 @@ Baza danych SAKOL3 działa na silniku SQL. Na początek instalacji SAKOL odtwarz
 
 ![image](https://user-images.githubusercontent.com/93259107/144235718-c351084f-6db9-4970-9fc2-92f2c1125ebe.png)
 
+![image](https://user-images.githubusercontent.com/93259107/144236015-f14b38f0-e7a9-40d7-9c82-78ba69e15c9f.png)
+
 
 ## Instalacja usługi
 
