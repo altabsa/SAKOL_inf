@@ -58,7 +58,8 @@ Jeżeli pojawi się poniższy komunikat oznacza, że usługa SAKOL3_DataService 
 > Jak zainstalowac na IIS
 W pierwszej kolejności dodajemy pulę aplikacji SAKOL3 w IIS
 
-![image](https://user-images.githubusercontent.com/93259107/147079091-6f65e197-ec39-4eb9-b48c-9f1b756f976c.png)
+![image](https://user-images.githubusercontent.com/93259107/147079207-7f20cf91-b177-42a8-adbe-515b8a03ef2b.png)
+
 
 
 # Sprawdzenie instalacji
