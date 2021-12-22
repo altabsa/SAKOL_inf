@@ -60,6 +60,14 @@ W pierwszej kolejności dodajemy pulę aplikacji SAKOL3 w IIS
 
 ![image](https://user-images.githubusercontent.com/93259107/147079207-7f20cf91-b177-42a8-adbe-515b8a03ef2b.png)
 
+Następnie konfigurujemy witrynę 
+
+![image](https://user-images.githubusercontent.com/93259107/147083333-a6670db8-6704-47bd-aedb-9d08096e5f9d.png)
+
+Konwertujemy nasz folder na aplikację 
+
+![image](https://user-images.githubusercontent.com/93259107/147083597-8ddd8786-0ba5-4087-8ccf-414e32e7d7d5.png)
+
 
 
 # Sprawdzenie instalacji
