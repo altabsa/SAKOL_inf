@@ -118,6 +118,10 @@ Po zalogowaniu się pierwszy raz do aplikacji SAKOL powinna nam się wyświetli�
 ![image](https://user-images.githubusercontent.com/93259107/147480592-476f0d35-9950-42a3-8b2f-00d677f210aa.png)
 
 
+Aby sprawdzić, czy aplikacja SAKOL jest poprawnie zainstalowana należy dodać moduł, któy będzie można uruchomić. 
+Aby dodać moduł w pierwszej kolejności dodajemy klasę o nazwie test. Klasę dodajemy poprzez kliknięcie w przycisk plusa.
+
+![image](https://user-images.githubusercontent.com/93259107/147481076-9ac68236-4902-4dcf-a955-4b36d39a2d9f.png)
 
 
 
