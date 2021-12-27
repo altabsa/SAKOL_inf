@@ -92,4 +92,6 @@ Aplikacja SAKOL z pustą bazą bez użytkowników i modułów wygląda następuj
 
 
 # Sprawdzenie instalacji
-**proszę** tu dodac tekst
+Po instalacji SAKOL3 przechodzimy do weryfikacji działania aplikacji, przechodzimy do panelu administracyjnego, żeby dodać uzytkownika i zalogować się do aplikacji:
+
+
