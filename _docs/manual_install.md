@@ -113,7 +113,9 @@ Po dokonaniu synchronizacji nowo stworzony użytkownik pojawia się na liście:
 ![image](https://user-images.githubusercontent.com/93259107/147480397-c0e85008-13ed-48f8-9899-e509e04c4894.png)
 Aby zalogować się do aplikacji SAKOL zaznaczamy użytkownika oraz klikamy przycisk dalej, nastęnie wpisujemy hasło i ponownie klikamy przycisk dalej.
 
+Po zalogowaniu się pierwszy raz do aplikacji SAKOL powinna nam się wyświetlić pusta lista z uzupełnionym w nagłówku kodem użytkownika na któego jesteśmy zalogowani:
 
+![image](https://user-images.githubusercontent.com/93259107/147480592-476f0d35-9950-42a3-8b2f-00d677f210aa.png)
 
 
 
