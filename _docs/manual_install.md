@@ -97,5 +97,18 @@ Aplikacja SAKOL z pustą bazą bez użytkowników i modułów wygląda następuj
 
 # Sprawdzenie instalacji
 Po instalacji SAKOL3 przechodzimy do weryfikacji działania aplikacji, przechodzimy do panelu administracyjnego, żeby dodać użytkownika i zalogować się do aplikacji:
+Wybieramy zakładkę użytkownicy
+
+![image](https://user-images.githubusercontent.com/93259107/147479687-8377b0fd-d78e-4c6a-9534-ae50bd24fbaa.png)
+
+kilkamy przycisk "plus" w prawym dolnym rogu ekranu, przycisk "minus" po zaznaczaniu użytkownika usuwa go, przyciski te działają również w panelu administracyjnym na innych oknach.
+W oknie edycji użytkownika dodajemy użytkownika o nazwie admin. Domyślne hasło dla każdego nowo tworzonego użytkownika to SAKOL2. Zmieniamy te hasło od razu w momencie tworzenia nowego użytkownika.
+![image](https://user-images.githubusercontent.com/93259107/147479956-391e8f90-939e-4a6e-b5e9-ec2b8011bd0c.png)
+
+
+
+
+
+
 
 
