@@ -69,7 +69,13 @@ Konwertujemy nasz folder na aplikację
 
 ![image](https://user-images.githubusercontent.com/93259107/147083597-8ddd8786-0ba5-4087-8ccf-414e32e7d7d5.png)
 
+Zmieniamy ustawiania w pliku config.json, który znajduje się w następującej lokalizacji:
 
+C:\Altab\Sakol3\inetpub\SAKOL3\assets
+
+Edytujemy plik config.json. Zmianiamy wartość w polu EndPointAddress, ustawiamy adres witryny i port usługi.
+
+![image](https://user-images.githubusercontent.com/93259107/147466858-5e653165-03c0-4494-8731-613856fc65ef.png)
 
 # Sprawdzenie instalacji
 **proszę** tu dodac tekst
