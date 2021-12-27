@@ -86,6 +86,10 @@ Uruchamiamy aplikację SAKOL3 z poziomu IIS
 
 ![image](https://user-images.githubusercontent.com/93259107/147467174-76254d86-064b-4ed7-a0f5-f6969c79c411.png)
 
+Aplikacja SAKOL z pustą bazą bez użytkowników i modułów wygląda następująco:
+
+![image](https://user-images.githubusercontent.com/93259107/147467393-779f76ac-7a4e-418c-b5e8-3b7bb3ee43ad.png)
+
 
 # Sprawdzenie instalacji
 **proszę** tu dodac tekst
