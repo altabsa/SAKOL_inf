@@ -53,6 +53,52 @@ Jeżeli pojawi się poniższy komunikat oznacza, że usługa SAKOL3_DataService 
 
 ![image](https://user-images.githubusercontent.com/93259107/144233078-f430c7ee-e695-4bf2-81ba-58433f598685.png)
 
+Konfigurujemy aplikację SAKOL3_Admin. Aplikacja znajduje się w następującej lokalizacji:
+C:\Altab\Sakol3\SAKOL3_Admin
+
+![image](https://user-images.githubusercontent.com/93259107/147468663-7f651ab9-1e62-41fd-ae0c-6520101cc751.png)
+Najważniejsze parametry, które musimy zmienić to:
+
+ <SAKOL2_Admin.Properties.Settings>
+            <setting name="UserID" serializeAs="String">
+                <value>sa</value>
+            </setting>
+            <setting name="Password" serializeAs="String">
+                <value>haslo</value>
+            </setting>
+            <setting name="WsParam1" serializeAs="String">
+                <value>SBODEMOPL</value>
+            </setting>
+            <setting name="WsParam2" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="WsParam3" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="WsParam4" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="DataSource" serializeAs="String">
+                <value>ADAMG</value>
+            </setting>
+            <setting name="DataBase" serializeAs="String">
+                <value>SAKOL3</value>
+            </setting>
+            <setting name="HanaDataSource" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="HanaUserID" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="HanaPass" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="HtmlAppPath" serializeAs="String">
+                <value>C:\Altab\Sakol3\inetpub\SAKOL3</value>
+            </setting>
+            <setting name="UseAltAddons" serializeAs="String">
+                <value>True</value>
+            </setting>
 
 
 # Klient WWW
