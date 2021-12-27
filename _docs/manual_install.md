@@ -57,12 +57,8 @@ Konfigurujemy aplikację SAKOL3_Admin. Aplikacja znajduje się w następującej 
 C:\Altab\Sakol3\SAKOL3_Admin
 
 ![image](https://user-images.githubusercontent.com/93259107/147468663-7f651ab9-1e62-41fd-ae0c-6520101cc751.png)
-Najważniejsze parametry, które musimy zmienić to 
-użytkownik sql: <setting name="UserID" serializeAs="String">
-                <value>sa</value> 
+Ustawiamy poświadczenia do bazy danych oraz ważnym elementem jest parametr WsParam1, w któym określamy nazwę bazy SAP.
  
-
-
 # Klient WWW
 > Jak zainstalowac na IIS
 W pierwszej kolejności dodajemy pulę aplikacji SAKOL3 w IIS
