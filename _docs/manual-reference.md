@@ -25,7 +25,16 @@ W oknie użytkownicy mamy mozliwość definowania użytkowników aplikacji SAKOL
 ![image](https://user-images.githubusercontent.com/93259107/143867989-6e709b09-a0e3-4d66-a4f6-f7c0e50bf7fe.png)
 
 ##### Kod
+Unikalny kod użytkownika, który jest widoczny w trakcie logowania
 
+##### Stare hasło (uzupełniane przy zmianie hasła)
+Hasło zdefiniowane dla danego użytkowika. Hasło domyślne przy tworzeniu użytkownika to SAKOL
+
+##### Nowe hasło (uzupełniane przy zmianie hasła)
+Nowe hasło definiowane dla użytkownika. W przypadku haseł staramy używać się samych
+
+##### Nowe hasło2 (uzupełniane przy zmianie hasła)
+Nowe hasło definiowane dla użytkownika
 
 ## Klasy <a name="hlp_class"></a>
 `hlp_class`
