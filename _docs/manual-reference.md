@@ -8,6 +8,7 @@ excerpt: "Dokumetacja SAKOL - spis funkcji systemu"
 Częścią integralną aplikacji SAKOL jest aplikacja SAKOL_ADMIN. 
 Aplikacja ta jak sama nazwa wskazauje jest panelem administracyjnym do zarządzania aplikacją SAKOL 
 Dzięki tej aplikacji możemy dodawać użytkowników, definiować klasy, słowniki, poprzez zakładkę formatki możemy zaprojektować wygląd aplikacji. Dzięki opcji Addony WF mamy możliwość zakodowania logiki, czyli do wyglądu naszych formatek możemy zakodować funkcje, które pozwolą nam na poprawne funkcjonowanie aplikacji. Poniżej przedstawione są wszystkie opcje dostępne w panelu administracyjnym
+
 ![image](https://user-images.githubusercontent.com/93259107/143850389-f0ccb4c1-b639-49d7-a501-0d52c2464562.png)
 
 
