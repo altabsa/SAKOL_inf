@@ -103,23 +103,29 @@ Wybieramy zakładkę użytkownicy
 
 kilkamy przycisk "plus" w prawym dolnym rogu ekranu, przycisk "minus" po zaznaczaniu użytkownika usuwa go, przyciski te działają również w panelu administracyjnym na innych oknach.
 W oknie edycji użytkownika dodajemy użytkownika o nazwie admin. Domyślne hasło dla każdego nowo tworzonego użytkownika to SAKOL2. Zmieniamy te hasło od razu w momencie tworzenia nowego użytkownika.
+
 ![image](https://user-images.githubusercontent.com/93259107/147479956-391e8f90-939e-4a6e-b5e9-ec2b8011bd0c.png)
 
 Po zdefiniowaniu użytkownika przechodzimy do aplikacji SAKOL. Aby zmiany dotyczące użytkowników pojawiły się w aplikacji należy dokonać synchroniazacji.
 Na oknie logowania wybieramy przycisk opcje-->synchronizacja
+
 ![image](https://user-images.githubusercontent.com/93259107/147480341-8b77cf88-4474-4d45-a675-0c6c7d9e5e48.png)
 
 Po dokonaniu synchronizacji nowo stworzony użytkownik pojawia się na liście:
+
 ![image](https://user-images.githubusercontent.com/93259107/147480397-c0e85008-13ed-48f8-9899-e509e04c4894.png)
+
 Aby zalogować się do aplikacji SAKOL zaznaczamy użytkownika oraz klikamy przycisk dalej, nastęnie wpisujemy hasło i ponownie klikamy przycisk dalej.
 
 Po zalogowaniu się pierwszy raz do aplikacji SAKOL powinna nam się wyświetlić pusta lista z uzupełnionym w nagłówku kodem użytkownika na któego jesteśmy zalogowani:
+
 
 ![image](https://user-images.githubusercontent.com/93259107/147480592-476f0d35-9950-42a3-8b2f-00d677f210aa.png)
 
 
 Aby sprawdzić, czy aplikacja SAKOL jest poprawnie zainstalowana należy dodać moduł, któy będzie można uruchomić. 
 Aby dodać moduł w pierwszej kolejności dodajemy klasę o nazwie test. Klasę dodajemy poprzez kliknięcie w przycisk plusa.
+
 
 ![image](https://user-images.githubusercontent.com/93259107/147481076-9ac68236-4902-4dcf-a955-4b36d39a2d9f.png)
 
