@@ -42,6 +42,12 @@ Parametr ten jeżeli jest zaznaczony oznacza, że użytkownik jest aktywny i jeg
 ##### Stanowisko
 Pole te służy do grupowania użytkowników oraz nadawania im uprawnień do logowania. Np. Jeżeli w pole stanoiwsko wpiszemy Magazyn w trakcie logowania do SAKOL pod kodem użytkownika wyświetli się nazwa z pola stanowisko. Również możemy określić, że na danym urządzeniu np. kolektorze mogą się logować tylko magazynierzy, wtedy w oknie logowania wyświetlą się tylko użytkownicy, którzy mają w polu stanowisku nazwę Magazyn.
 
+##### Gen. etykiety
+Po kliknięciu w przycisk Gen. etykiety generuje się ciąg znaków. Powstały ciąg znaków możemy przedstawić jako kod QR dzięki któremu podczas logowanie użytkownik po zaczytaniu kodu automatycznie zaloguje się do aplikacji SAKOL
+
+##### Użytkownik NTLM 
+We wskazanym polu definiujemy nazwę użytkownika domenowego służącego do logowania poprzez konto Windows np. altab\adam, dzięki czemu możemy logować się do SAKOL za pomocą poświadczeń widnows.
+
 ## Klasy <a name="hlp_class"></a>
 `hlp_class`
 ### Zastosowanie
