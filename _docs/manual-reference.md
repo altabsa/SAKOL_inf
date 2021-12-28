@@ -15,7 +15,8 @@ Dzięki tej aplikacji możemy dodawać użytkowników, definiować klasy, słown
 
 ## Użytkownicy <a name="hlp_users"></a>
 `hlp_users`
-Pierwszą zakładką panelu administracyjnego jest zakładka użytkownicy. W zakłdace użytkownicy definujemy użytkowników aplikacji SAKOL
+
+Zakładka użytkowicy służy do dodawania lub modyfikowania użytkowników w aplikacji SAKOL. Dzięki tej zakładce mamy możliwość zmiany hasła do logowania.
 
 ![image](https://user-images.githubusercontent.com/93259107/143865839-057ab28f-dd27-4ed2-926f-314c03cc10ed.png)
 
@@ -23,7 +24,7 @@ W oknie użytkownicy mamy mozliwość definowania użytkowników aplikacji SAKOL
 
 ![image](https://user-images.githubusercontent.com/93259107/143867989-6e709b09-a0e3-4d66-a4f6-f7c0e50bf7fe.png)
 
-
+##### Kod
 
 
 ## Klasy <a name="hlp_class"></a>
