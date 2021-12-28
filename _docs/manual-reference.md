@@ -28,13 +28,19 @@ W oknie użytkownicy mamy mozliwość definowania użytkowników aplikacji SAKOL
 Unikalny kod użytkownika, który jest widoczny w trakcie logowania
 
 ##### Stare hasło (uzupełniane przy zmianie hasła)
-Hasło zdefiniowane dla danego użytkowika. Hasło domyślne przy tworzeniu użytkownika to SAKOL
+Hasło zdefiniowane dla danego użytkowika. Hasło domyślne przy tworzeniu użytkownika to SAKOL2. Przy tworzeniu użytkownika od razu zmieniamy to hasło na hasło liczbowe. 
 
 ##### Nowe hasło (uzupełniane przy zmianie hasła)
-Nowe hasło definiowane dla użytkownika. W przypadku haseł staramy używać się samych
+Nowe hasło definiowane dla użytkownika. W hasłach wykorzystujemy tylko liczby.
 
 ##### Nowe hasło2 (uzupełniane przy zmianie hasła)
-Nowe hasło definiowane dla użytkownika
+Nowe hasło definiowane dla użytkownika. W hasłach wykorzystujemy tylko liczby.
+
+##### Aktywny 
+Parametr ten jeżeli jest zaznaczony oznacza, że użytkownik jest aktywny i jego login jest dostępny w SAKOL, jeżeli jest odznaczony użytkownik ten nie może logować się do aplikacji SAKOL.
+
+##### Stanowisko
+Pole te służy do grupowania użytkowników oraz nadawania im uprawnień do logowania. Np. Jeżeli w pole stanoiwsko wpiszemy Magazyn w trakcie logowania do SAKOL pod kodem użytkownika wyświetli się nazwa z pola stanowisko. Również możemy określić, że na danym urządzeniu np. kolektorze mogą się logować tylko magazynierzy, wtedy w oknie logowania wyświetlą się tylko użytkownicy, którzy mają w polu stanowisku nazwę Magazyn.
 
 ## Klasy <a name="hlp_class"></a>
 `hlp_class`
