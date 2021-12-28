@@ -111,9 +111,11 @@ Na oknie logowania wybieramy przycisk opcje-->synchronizacja
 
 ![image](https://user-images.githubusercontent.com/93259107/147480341-8b77cf88-4474-4d45-a675-0c6c7d9e5e48.png)
 
-Po dokonaniu synchronizacji nowo stworzony użytkownik pojawia się na liście:
+Po dokonaniu synchronizacji nowo stworzony użytkownik pojawia się na liście
+
 
 ![image](https://user-images.githubusercontent.com/93259107/147480397-c0e85008-13ed-48f8-9899-e509e04c4894.png)
+
 
 Aby zalogować się do aplikacji SAKOL zaznaczamy użytkownika oraz klikamy przycisk dalej, nastęnie wpisujemy hasło i ponownie klikamy przycisk dalej.
 
