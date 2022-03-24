@@ -10,7 +10,7 @@ Opis zadania
 
 # Rozwiązanie
 ## Klasy
-> W pierwszej kolejności dodajemy klasę PZ. 
+> W pierwszej kolejności dodajemy klasę PZ. Klasę dodajemy w panelu administracyjnym SAKOL w zakładce klasy. 
 
 ![image](https://user-images.githubusercontent.com/93259107/159937127-e83323c0-9926-4a8a-8dc8-cb312878596c.png)
 
