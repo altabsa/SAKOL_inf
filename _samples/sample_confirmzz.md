@@ -20,7 +20,8 @@ Opis zadania
 
 > Dodajemy kolejne pola:
 
-![image](https://user-images.githubusercontent.com/93259107/159939075-09b81a08-0e2e-44c0-b601-1399732a5c98.png)
+![image](https://user-images.githubusercontent.com/93259107/159939279-911ae4a4-1dbb-48f6-9da5-433c69eb84d3.png)
+
 
 
 
