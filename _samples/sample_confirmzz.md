@@ -22,8 +22,9 @@ Opis zadania
 
 ![image](https://user-images.githubusercontent.com/93259107/159939279-911ae4a4-1dbb-48f6-9da5-433c69eb84d3.png)
 
+> Dodanie wszystkich wymaganych pól:
 
-
+![image](https://user-images.githubusercontent.com/93259107/159943283-53f43bfb-3fee-4406-8b8c-503d182f45a5.png)
 
 
 ## Formatki
