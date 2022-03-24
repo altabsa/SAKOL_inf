@@ -10,7 +10,18 @@ Opis zadania
 
 # Rozwiązanie
 ## Klasy
-> opis tworzenia klas
+> W pierwszej kolejności dodajemy klasę PZ. 
+
+![image](https://user-images.githubusercontent.com/93259107/159937127-e83323c0-9926-4a8a-8dc8-cb312878596c.png)
+
+> Nazwę klasy uzupełniamy jako PZ, uzupełniamy opis klasy. Pole opis jest istotne, ponieważ na liście add-on w SAKOL wyświetlane nazwy są własnie na podstawie pola Opis:
+
+![image](https://user-images.githubusercontent.com/93259107/159937749-eadd982d-8038-4dce-bd12-1a62ed032322.png)
+
+
+
+
+
 ## Formatki
 > opis tworzenia formatki
 ## Addon
