@@ -131,6 +131,19 @@ Aby dodać moduł w pierwszej kolejności dodajemy klasę o nazwie test. Klasę 
 
 ![image](https://user-images.githubusercontent.com/93259107/147481076-9ac68236-4902-4dcf-a955-4b36d39a2d9f.png)
 
+Dodajemy formatkę o nazwie test i podpinamy pod nią klasę test:
+
+![image](https://user-images.githubusercontent.com/93259107/159912103-28b8a190-7fc8-4f1c-a56f-027d8d402099.png)
+
+
+Logujemy się do SAKOL-a i weryfikujemy, czy testowy add-on został dodany, wykonujemy synchronizację, jeżeli pojawi się moduł, oznacza to, że instalacja przebiegła pomyślnie:
+
+![image](https://user-images.githubusercontent.com/93259107/159912359-bee5be43-2f57-4d59-b008-ba0432be6d4b.png)
+
+
+
+
+
 
 
 
