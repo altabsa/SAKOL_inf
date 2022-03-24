@@ -6,7 +6,7 @@ excerpt: "Potwierdzenie przyjetych ilości na dokumencie ZZ"
 
 # Zadanie
 Opis zadania
-> do uzupełnienia
+> Poniżej zostanie przedstawiony przykład zastosowania aplikacji SAKOL3. Na bazie SAP Bussiness One zostanie dodany dokument zamówienia zakupu, pozycje z zamówienia zostaną zrealizowane w SAKOL, po zrealizowaniu dokumentu ZZ w SAKOL zostanie dodany dokument potwierdzający ruchy magazynowe w SAP.
 
 # Rozwiązanie
 ## Klasy
