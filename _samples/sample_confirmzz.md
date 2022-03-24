@@ -18,6 +18,9 @@ Opis zadania
 
 ![image](https://user-images.githubusercontent.com/93259107/159937749-eadd982d-8038-4dce-bd12-1a62ed032322.png)
 
+> Dodajemy kolejne pola:
+
+![image](https://user-images.githubusercontent.com/93259107/159939075-09b81a08-0e2e-44c0-b601-1399732a5c98.png)
 
 
 
