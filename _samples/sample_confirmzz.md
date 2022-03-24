@@ -28,7 +28,11 @@ Opis zadania
 
 
 ## Formatki
-> opis tworzenia formatki
+> Formatkę tworzyny w panelu administracyjnym w zakładce formatki. Tworzymy formatkę o nazwie PZ oraz podpinamy stworzoną klasę C_PZ:
+
+![image](https://user-images.githubusercontent.com/93259107/159945467-c2a3edfb-b25a-476b-8c02-625f25087719.png)
+
+
 ## Addon
 > jak zaprojektowac logikę
 
