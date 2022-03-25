@@ -24,7 +24,7 @@ Opis zadania
 
 > Dodanie wszystkich wymaganych pól:
 
-![image](https://user-images.githubusercontent.com/93259107/159943283-53f43bfb-3fee-4406-8b8c-503d182f45a5.png)
+![image](https://user-images.githubusercontent.com/93259107/160125008-ae8a9339-2ab8-4f50-9a1a-185bb8b60a05.png)
 
 
 ## Formatki
