@@ -5,9 +5,13 @@ excerpt: "Dokumetacja SAKOL - podręcznik bazy danych"
 ---
 
 # Tabele systemowe
-Tabele w bazie SAKOL:
-ACTIONCNDS
+<strong> ACTIONCNDS </strong>
+<br>
 Jest to tabela w której znajdują się warunki w połączeniach między kafelkami w SAKOL
+
+![image](https://user-images.githubusercontent.com/93259107/164465060-38bd0f30-aec3-4c6c-8494-312c675242b4.png)
+
+
 
 
 # Tabele klas i słowników
