@@ -12,6 +12,12 @@ Jest to tabela w której znajdują się warunki w połączeniach między kafelka
 ![image](https://user-images.githubusercontent.com/93259107/164465060-38bd0f30-aec3-4c6c-8494-312c675242b4.png)
 
 
+<strong> ACTIONS </strong>
+
+Jest to tabela w której znajdują się wpisy na temat połaczeń (strzałek) między kafelkami
+
+![image](https://user-images.githubusercontent.com/93259107/164466880-3c3e1d1f-6886-4478-814d-654ed58baeeb.png)
+
 
 
 # Tabele klas i słowników
