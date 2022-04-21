@@ -30,7 +30,10 @@ W tabeli znajdują się wpisy na temat połaczeń (strzałek) między kafelkami
 W tabeli znajdują się informacje na temat Add-onów dodanych w aplikacji SAKOL
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/93259107/164469237-d20b84f1-6aba-4157-a4b7-156905d6d194.png)
+![image](https://user-images.githubusercontent.com/93259107/164470387-b8520ea2-ed5b-4669-879d-583bd8851369.png)
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/164470446-34815bb3-9506-45ec-8b0f-6f4523c6ba33.png)
 
 
 # Tabele klas i słowników
