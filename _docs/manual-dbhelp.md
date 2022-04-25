@@ -173,6 +173,7 @@ W tabeli znajdują się informacje na temat formatek wykorzystywanych w SAKOL
 W tabeli znajdują się informacje na temat użytkowników dostępnych w aplikacji SAKOL
 <br>
 <br>
+![image](https://user-images.githubusercontent.com/93259107/165103339-1f02a23e-4629-4446-b021-546f79b06d7e.png)
 <br>
 <br>
 # Tabele klas i słowników
