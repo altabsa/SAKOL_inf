@@ -44,6 +44,16 @@ W tabeli znajdują się informacje na temat klas dodanych w aplikacji SAKOL
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/93259107/165076798-429ed0c1-202a-4cd9-9d3e-6bd416bca140.png)
+<strong> CLASSFIELDS </strong>
+<br>
+<br>
+W tabeli znajdują się informacje na temat pól zdefiniowanych w klasach 
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165078990-88bef66c-6def-43ab-b375-53fa2c9c6867.png)
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165079047-46aebb3f-62a7-4c74-a0d6-2475abcd0cab.png)
 
 
 # Tabele klas i słowników
