@@ -5,8 +5,6 @@ excerpt: "Dokumetacja SAKOL - podręcznik bazy danych"
 ---
 
 # Tabele systemowe
-<strong> Opis tabeli systemowych w aplikacji SAKOL</strong>
-![image](https://user-images.githubusercontent.com/93259107/165104156-2dc772ff-d03e-4680-ba9c-25b160576919.png)
 
 <strong> ACTIONCNDS </strong>
 <br>
