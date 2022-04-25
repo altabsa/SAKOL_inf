@@ -66,6 +66,16 @@ W tabeli znajdują się informacje na temat połączeń między kafelkami.
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/93259107/165083596-d9e67535-030a-4ac3-b389-b42e2bf0a178.png)
+<strong> DESIGNERITEMS </strong>
+<br>
+<br>
+W tabeli znajdują się informacje na temat położenia kafelek w SAKOL. 
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165084574-951422f6-4ecf-4390-88e9-fb4823ceb5cc.png)
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165084627-f3d1ab0f-8409-4bce-898d-e6711d57a70d.png)
 
 # Tabele klas i słowników
 > opis tabel pojawiających sie w miarę rozwoju aplikacji
