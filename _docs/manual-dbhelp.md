@@ -99,6 +99,17 @@ W tabeli znajdują się informacje na temat żółtych kafelków użytych w Add-
 <br>
 ![image](https://user-images.githubusercontent.com/93259107/165096209-09e40eec-1b17-4d2a-961a-25dd837020bc.png)
 
+<strong> FN_FORMOP </strong>
+<br>
+<br>
+W tabeli znajdują się informacje na temat różowych kafelków użytych w Add-on wykorzystywanych do wykonywania takich akcji jak przechodzenie do danego okna lub zamykanie formularza. 
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165096651-c20344eb-f370-4879-ab52-d770311bc619.png)
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165096713-2e0b170a-0deb-4bcd-92b5-85c20b5e70ce.png)
+
 
 # Tabele klas i słowników
 > opis tabel pojawiających sie w miarę rozwoju aplikacji
