@@ -34,6 +34,16 @@ W tabeli znajdują się informacje na temat Add-onów dodanych w aplikacji SAKOL
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/93259107/164470446-34815bb3-9506-45ec-8b0f-6f4523c6ba33.png)
+<strong> CLASSES </strong>
+<br>
+<br>
+W tabeli znajdują się informacje na temat klas dodanych w aplikacji SAKOL
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165076719-e55b8430-a9d2-4546-8f78-6caddd73a99d.png)
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165076798-429ed0c1-202a-4cd9-9d3e-6bd416bca140.png)
 
 
 # Tabele klas i słowników
