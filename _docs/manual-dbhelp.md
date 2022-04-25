@@ -153,6 +153,7 @@ W tabeli znajdują się informacje na temat pól wykorzystywanych w formatkach
 ![image](https://user-images.githubusercontent.com/93259107/165100644-60b0892a-a178-4c16-97d2-41574ee1a463.png)
 <br>
 <br>
+![image](https://user-images.githubusercontent.com/93259107/165100877-082527c8-b499-4272-8db8-cc51b70f984d.png)
 
 
 
