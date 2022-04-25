@@ -88,6 +88,18 @@ W tabeli znajdują się informacje na temat zielonych kafelków użytych w Add-o
 <br>
 ![image](https://user-images.githubusercontent.com/93259107/165086084-98791e4c-1ed8-4c7f-8e5c-ad315221df5a.png)
 
+<strong> FN_EXCALLOP </strong>
+<br>
+<br>
+W tabeli znajdują się informacje na temat żółtych kafelków użytych w Add-on wykorzystywanych do wykonywania dll. 
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165096110-8cf34ac8-23af-4faa-a181-38d00902253f.png)
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165096209-09e40eec-1b17-4d2a-961a-25dd837020bc.png)
+
+
 # Tabele klas i słowników
 > opis tabel pojawiających sie w miarę rozwoju aplikacji
 # Funkcje i procedury
