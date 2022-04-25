@@ -162,10 +162,9 @@ W tabeli znajdują się informacje na temat formatek wykorzystywanych w SAKOL
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/93259107/165101093-7e8df105-0048-4d6e-80a2-21d382b56665.png)
-
 <br>
 <br>
-
+![image](https://user-images.githubusercontent.com/93259107/165103164-212e80f7-e45c-468d-bc0b-69c5320c8c72.png)
 <br>
 <br>
 <strong> USERS </strong>
@@ -174,10 +173,8 @@ W tabeli znajdują się informacje na temat formatek wykorzystywanych w SAKOL
 W tabeli znajdują się informacje na temat użytkowników dostępnych w aplikacji SAKOL
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/93259107/165101711-f44cf71f-822e-452d-bae9-12cdf2af16f9.png)
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/93259107/165102126-5c1f4dac-e6bb-48b7-bff3-834f928e86ba.png)
 # Tabele klas i słowników
 > opis tabel pojawiających sie w miarę rozwoju aplikacji
 # Funkcje i procedury
