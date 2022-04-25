@@ -155,6 +155,33 @@ W tabeli znajdują się informacje na temat pól wykorzystywanych w formatkach
 <br>
 ![image](https://user-images.githubusercontent.com/93259107/165100877-082527c8-b499-4272-8db8-cc51b70f984d.png)
 
+<strong> FORMS </strong>
+<br>
+<br>
+W tabeli znajdują się informacje na temat formatek wykorzystywanych w SAKOL
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165101093-7e8df105-0048-4d6e-80a2-21d382b56665.png)
+
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165101159-48be49b2-c489-4505-971c-e9e431705da6.png)
+
+
+<strong> USERS </strong>
+<br>
+<br>
+W tabeli znajdują się informacje na temat użytkowników dostępnych w aplikacji SAKOL
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165101503-36775e9d-dd89-4297-a1ff-e6626ccec0da.png)
+
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165101539-111c9e36-5fc1-4a76-a87b-0a23580d61ac.png)
+
+
+
 
 
 # Tabele klas i słowników
