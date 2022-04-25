@@ -110,6 +110,18 @@ W tabeli znajdują się informacje na temat różowych kafelków użytych w Add-
 <br>
 ![image](https://user-images.githubusercontent.com/93259107/165096713-2e0b170a-0deb-4bcd-92b5-85c20b5e70ce.png)
 
+<strong> FN_MSGBOXOP </strong>
+<br>
+<br>
+W tabeli znajdują się informacje na temat czerwonych kafelków użytych w Add-on wykorzystywanych do wyświetlania wiadomości lub odwoływania sie do innej klasy. 
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165097222-fd4c03a7-d337-4bfe-90ab-c0366e7c77b1.png)
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165097355-dac76d27-fecf-4ff7-b5ac-863988c3c5b5.png)
+
+
 
 # Tabele klas i słowników
 > opis tabel pojawiających sie w miarę rozwoju aplikacji
