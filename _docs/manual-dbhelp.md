@@ -54,7 +54,18 @@ W tabeli znajdują się informacje na temat pól zdefiniowanych w klasach
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/93259107/165079047-46aebb3f-62a7-4c74-a0d6-2475abcd0cab.png)
-
+<br>
+<br>
+<strong> DESIGNERCONNECTIONS </strong>
+<br>
+<br>
+W tabeli znajdują się informacje na temat połączeń między kafelkami. 
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165083508-60177566-ad95-4dca-afc1-52029762874a.png)
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165083596-d9e67535-030a-4ac3-b389-b42e2bf0a178.png)
 
 # Tabele klas i słowników
 > opis tabel pojawiających sie w miarę rozwoju aplikacji
