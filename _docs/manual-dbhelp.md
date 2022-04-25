@@ -77,6 +77,17 @@ W tabeli znajdują się informacje na temat położenia kafelek w SAKOL.
 <br>
 ![image](https://user-images.githubusercontent.com/93259107/165084627-f3d1ab0f-8409-4bce-898d-e6711d57a70d.png)
 
+<strong> FN_DOCOP </strong>
+<br>
+<br>
+W tabeli znajdują się informacje na temat zielonych kafelków użytych w Add-on wykorzystywanych do operacji na liniach i nagłówku. 
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165086026-241979c1-5891-4cda-9fce-c5e0cbf2a109.png)
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165086084-98791e4c-1ed8-4c7f-8e5c-ad315221df5a.png)
+
 # Tabele klas i słowników
 > opis tabel pojawiających sie w miarę rozwoju aplikacji
 # Funkcje i procedury
