@@ -174,11 +174,11 @@ W tabeli znajdują się informacje na temat formatek wykorzystywanych w SAKOL
 W tabeli znajdują się informacje na temat użytkowników dostępnych w aplikacji SAKOL
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/93259107/165101503-36775e9d-dd89-4297-a1ff-e6626ccec0da.png)
+![image](https://user-images.githubusercontent.com/93259107/165101711-f44cf71f-822e-452d-bae9-12cdf2af16f9.png)
 
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/93259107/165101539-111c9e36-5fc1-4a76-a87b-0a23580d61ac.png)
+
 
 
 
