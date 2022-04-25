@@ -165,7 +165,7 @@ W tabeli znajdują się informacje na temat formatek wykorzystywanych w SAKOL
 
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/93259107/165101159-48be49b2-c489-4505-971c-e9e431705da6.png)
+
 <br>
 <br>
 <strong> USERS </strong>
