@@ -176,6 +176,7 @@ W tabeli znajdują się informacje na temat użytkowników dostępnych w aplikac
 ![image](https://user-images.githubusercontent.com/93259107/165103339-1f02a23e-4629-4446-b021-546f79b06d7e.png)
 <br>
 <br>
+![image](https://user-images.githubusercontent.com/93259107/165103455-57acb51e-bcb7-4892-b511-0d7e04b322e7.png)
 # Tabele klas i słowników
 > opis tabel pojawiających sie w miarę rozwoju aplikacji
 # Funkcje i procedury
