@@ -121,6 +121,17 @@ W tabeli znajdują się informacje na temat czerwonych kafelków użytych w Add-
 <br>
 ![image](https://user-images.githubusercontent.com/93259107/165097355-dac76d27-fecf-4ff7-b5ac-863988c3c5b5.png)
 
+<strong> FN_SQLOP </strong>
+<br>
+<br>
+W tabeli znajdują się informacje na temat czerwonych granatowych kafelków użytych w Add-on wykorzystywanych do wprowadzania zayptań SQL.
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165097807-a3d78d9a-e889-4022-adb5-ec8f1ce7651b.png)
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/93259107/165097857-53b5909e-fb65-44c9-99d5-1d269aa0440f.png)
+
 
 
 # Tabele klas i słowników
