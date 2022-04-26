@@ -81,7 +81,7 @@ Edytujemy plik config.json. Zmianiamy wartość w polu EndPointAddress, ustawiam
 
 ![image](https://user-images.githubusercontent.com/93259107/147466858-5e653165-03c0-4494-8731-613856fc65ef.png)
 
-Pamiętamy o pliku licencji, po któy musimy skontaktować się z firmą Altab, inaczej aplikacja SAKOL nie zadziała. Plik licencji należy skopiować do folderu z usługą:
+Podgrywamy plik licencji. Plik licencji należy skopiować do folderu z usługą:
 
 ![image](https://user-images.githubusercontent.com/93259107/147467202-4d270622-ee43-464e-919d-62778c7c9050.png)
 
