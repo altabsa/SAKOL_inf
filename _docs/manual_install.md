@@ -47,6 +47,8 @@ Usługę instalujemy poprzez cmd z uprawnieniami administracyjnymi
 
 W cmd korzystamy z funkcji istallutil. "C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe" "C:\Altab\SAKOL3\SAKOL3_DataService\SAKOL3_DataService.exe"
 
+Jeżeli chcemy zainstalować kilka usuług SAKOL3_DataService np. w przypadku gdy SAKOL3 ma działać na kilku bazach produkcyjnych SAP wtedy używamy polecenia SC i instalujemy usługi z innymi nazwami np. dla bazy produkcyjnej SAKOL3_DataService a dla bazy testowej SAKOL3_DataService_TEST
+
 ![image](https://user-images.githubusercontent.com/93259107/144232784-b0c5285f-70f1-435a-8aa5-fb82c43ff701.png)
 
 Jeżeli pojawi się poniższy komunikat oznacza, że usługa SAKOL3_DataService została zainstalowana
